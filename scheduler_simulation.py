@@ -1,19 +1,12 @@
-# Write the Python script using any text editor.
 # Save the script with the name "scheduler_simulation.py".
 
 # Open Command Prompt by pressing Win + R and typing cmd.
 # Navigate to the directory where the script is saved using the cd command.
 
-# Execute the script by typing python scheduler_simulation.py in Command Prompt and pressing Enter.
+# Execute the script by typing python scheduler_simulation.py in the Command Prompt and pressing Enter.
 
 # Follow the output displayed in the Command Prompt window.
 # Review the output for thread scheduling information and performance metrics.
-
-
-
-
-
-
 
 import threading
 import time
